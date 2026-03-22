@@ -20,10 +20,6 @@ I am an **AI and Machine Learning Enthusiast** with a strong foundation in **App
 - Data-driven applications  
 - Web apps integrating ML models  
 
-###  How to Reach Me
-- **Email:** jmaranga35@gmail.com  
-- **LinkedIn:** https://www.linkedin.com/in/james-maranga  
-- **GitHub:** https://github.com/jmaranga2000  
 
 ---
 
