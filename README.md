@@ -1,4 +1,4 @@
-## 👋 Hey there, I'm **James Maranga** (@jmaranga2000)
+##  Hey there, I'm **James Maranga** (@jmaranga2000)
 
 I am an **AI and Machine Learning Enthusiast** with a strong foundation in **Applied Mathematics** and **Computer Science**. I’m passionate about building intelligent systems, analyzing data, and creating meaningful tech solutions that make an impact.
 
@@ -9,25 +9,25 @@ I am an **AI and Machine Learning Enthusiast** with a strong foundation in **App
 - Full-stack Development (Django REST + Next.js)  
 - Automation & Tech-driven solutions  
 
-### 🌱 Currently Learning
+###  Currently Learning
 - BSc. Mathematics (Applied Mathematics) & Computer Science  
 - Machine Learning & Data Science (Python, Scikit-learn, TensorFlow, PyTorch)  
 - Backend & Frontend Development (Django, DRF, Next.js, Tailwind CSS)  
 
-### 💞️ Looking to Collaborate On
+###  Looking to Collaborate On
 - AI & ML projects  
 - Open-source contributions  
 - Data-driven applications  
 - Web apps integrating ML models  
 
-### 📫 How to Reach Me
+###  How to Reach Me
 - **Email:** jmaranga35@gmail.com  
 - **LinkedIn:** https://www.linkedin.com/in/james-maranga  
 - **GitHub:** https://github.com/jmaranga2000  
 
 ---
 
-## 🌐 Connect With Me
+##  Connect With Me
 <p align="left">
 <a href="mailto:jmaranga35@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -42,7 +42,7 @@ I am an **AI and Machine Learning Enthusiast** with a strong foundation in **App
 
 ---
 
-## 🛠️ Languages & Tools
+##  Languages & Tools
 
 ### Programming Languages
 <p>
@@ -67,7 +67,7 @@ I am an **AI and Machine Learning Enthusiast** with a strong foundation in **App
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 <p align="left">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jmaranga2000&show_icons=true&theme=tokyonight" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmaranga2000&layout=compact&theme=tokyonight" />
