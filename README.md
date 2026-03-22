@@ -2,7 +2,7 @@
 
 I am an **AI and Machine Learning Enthusiast** with a strong foundation in **Applied Mathematics** and **Computer Science**. I’m passionate about building intelligent systems, analyzing data, and creating meaningful tech solutions that make an impact.
 
-### 👀 Interests
+### Interests
 - Machine Learning & Deep Learning  
 - Data Science & Predictive Modeling  
 - AI Research & Intelligent Systems  
