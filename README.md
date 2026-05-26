@@ -1,72 +1,163 @@
-##  Hey there, I'm **James Maranga** (@jmaranga2000)
+# James Maranga
 
-I am an **AI and Machine Learning Enthusiast** with a strong foundation in **Applied Mathematics** and **Computer Science**. I’m passionate about building intelligent systems, analyzing data, and creating meaningful tech solutions that make an impact.
-
-### Interests
-- Machine Learning & Deep Learning  
-- Data Science & Predictive Modeling  
-- AI Research & Intelligent Systems  
-- Full-stack Development (Django REST + Next.js)  
-- Automation & Tech-driven solutions  
-
-###  Currently Learning
-- BSc. Mathematics (Applied Mathematics) & Computer Science  
-- Machine Learning & Data Science (Python, Scikit-learn, TensorFlow, PyTorch)  
-- Backend & Frontend Development (Django, DRF, Next.js, Tailwind CSS)  
-
-###  Looking to Collaborate On
-- AI & ML projects  
-- Open-source contributions  
-- Data-driven applications  
-- Web apps integrating ML models  
-
-
----
-
-##  Connect With Me
 <p align="left">
-<a href="mailto:jmaranga35@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/james-maranga">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://github.com/jmaranga2000">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+  <img src="https://komarev.com/ghpvc/?username=jmaranga2000&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
+## About Me
+
+I am a Mathematics & Computer Science graduate specializing in Applied Mathematics and Computer Science, with a strong interest in Artificial Intelligence, Machine Learning, Data Science, and Software Engineering.
+
+I enjoy building scalable applications, developing intelligent systems, solving real-world problems with technology, and exploring modern tools in AI and full-stack development.
+
+- Graduated with a BSc in Mathematics & Computer Science
+- Focused on AI, Machine Learning & Data Science
+- Building full-stack applications using Django, Next.js & PostgreSQL
+- Interested in predictive analytics, automation, and intelligent systems
+- Founder of Digidwell Technologies
+- Currently advancing my skills in:
+  - Deep Learning
+  - MLOps
+  - Data Engineering
+  - Cloud & AI Deployment
+  - Backend System Architecture
+
 ---
 
-##  Languages & Tools
+## Areas of Interest
+
+- Machine Learning & Deep Learning  
+- Artificial Intelligence  
+- Data Science & Analytics  
+- Predictive Modeling  
+- Intelligent Automation  
+- Backend & API Development  
+- Full-stack Web Development  
+- Technical Support & System Administration  
+
+---
+
+## Tech Stack
 
 ### Programming Languages
 <p>
-<img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp,html,css" />
 </p>
 
 ### Frameworks & Libraries
 <p>
-<img src="https://skillicons.dev/icons?i=django,react,nextjs,nodejs,tailwind" />
+  <img src="https://skillicons.dev/icons?i=django,react,nextjs,nodejs,tailwind,express" />
 </p>
 
-### Machine Learning / Data Science
+### AI / Machine Learning / Data Science
 <p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+</p>
+
+### Databases & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,firebase,supabase" />
 </p>
 
 ### Tools & Platforms
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postgresql" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,docker,postman,vercel" />
 </p>
 
 ---
 
-##  GitHub Stats
+## Current Focus
+
+- Building AI-powered applications
+- Developing scalable APIs with Django REST Framework
+- Exploring machine learning workflows and deployment
+- Creating modern web applications with Next.js
+- Working on automation and business tech solutions
+
+---
+
+## Open To Collaborate On
+
+- AI & Machine Learning Projects  
+- Open Source Contributions  
+- Data Science Applications  
+- Full-stack Web Platforms  
+- Automation Systems  
+- Research & Intelligent Systems  
+
+---
+
+## Featured Projects
+
+### DwellNest
+A modern housing and rental platform built using Next.js, Django, and PostgreSQL featuring authentication, property listings, dashboards, and smart search capabilities.
+
+### Health Tracking Platform
+A full-stack health platform integrating:
+- Django REST Framework backend
+- Next.js frontend
+- Real-time notifications
+- M-Pesa integration
+- Authentication & analytics
+
+### Expense Tracking Web App
+An expense management system with:
+- Expense categorization
+- Dashboard analytics
+- Filtering & reporting
+- Secure authentication
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api?username=jmaranga2000&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" 
+  />
+  
+  <img 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmaranga2000&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" 
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=jmaranga2000&theme=tokyonight&hide_border=true" 
+  />
+</p>
+
+---
+
+## Connect With Me
+
 <p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jmaranga2000&show_icons=true&theme=tokyonight" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmaranga2000&layout=compact&theme=tokyonight" />
+<a href="mailto:jmaranga35@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/james-maranga">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/jmaranga2000">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://digidwel.com">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
 </p>
 
 ---
+
+## Additional Information
+
+- Strong background in Applied Mathematics and analytical problem solving
+- Interested in AI-driven business solutions and intelligent automation
+- Passionate about building scalable and impactful technology products
