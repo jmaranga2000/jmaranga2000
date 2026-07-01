@@ -124,8 +124,3 @@ An expense management system with:
 
 ---
 
-## Additional Information
-
-- Strong background in Applied Mathematics and analytical problem solving
-- Interested in AI-driven business solutions and intelligent automation
-- Passionate about building scalable and impactful technology products
