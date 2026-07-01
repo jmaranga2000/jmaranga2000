@@ -38,7 +38,7 @@ I enjoy building scalable applications, developing intelligent systems, solving 
 
 ### Databases & Cloud
 <p>
-  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,firebase,supabase" />
+  <img src="https://skillicons.dev/icons?i=postgresql,mongodb" />
 </p>
 
 ### Tools & Platforms
