@@ -20,12 +20,12 @@ I enjoy building scalable applications, developing intelligent systems, solving 
 
 ### Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,ts" />
+  <img src="https://skillicons.dev/icons?i=js,ts" />
 </p>
 
 ### Frameworks & Libraries
 <p>
-  <img src="https://skillicons.dev/icons?i=django,react,nextjs,nodejs,tailwind,express" />
+  <img src="https://skillicons.dev/icons?i=nextjs,nodejs,tailwind,express" />
 </p>
 
 ### AI / Machine Learning / Data Science
