@@ -58,17 +58,6 @@ I enjoy building scalable applications, developing intelligent systems, solving 
 
 ---
 
-## Open To Collaborate On
-
-- AI & Machine Learning Projects  
-- Open Source Contributions  
-- Data Science Applications  
-- Full-stack Web Platforms  
-- Automation Systems  
-- Research & Intelligent Systems  
-
----
-
 ## Featured Projects
 
 ### DwellNest
