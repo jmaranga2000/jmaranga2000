@@ -63,17 +63,17 @@
 
 ---
 
-## 🚀 Currently Working On
+##  Currently Working On
 
-- 🧠 AI & Machine Learning
-- ⚡ Next.js & Django Applications
-- 🏠 Property Management Systems
-- 🎓 School Management Systems
-- 🤖 Business Automation Solutions
+-  AI & Machine Learning
+-  Next.js & Django Applications
+-  Property Management Systems
+-  School Management Systems
+-  Business Automation Solutions
 
 ---
 
-## 📊 GitHub Analytics
+##  GitHub Analytics
 
 <p align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=jmaranga2000&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
@@ -95,7 +95,7 @@
 
 ---
 
-## 📌 Featured Technologies
+## Featured Technologies
 
 <p>
 <img src="https://skillicons.dev/icons?i=nextjs,django,postgres,mongodb,docker,tensorflow,pytorch,git" />
@@ -103,7 +103,7 @@
 
 ---
 
-## 🌍 Connect With Me
+## Connect With Me
 
 <p>
 <a href="mailto:jmaranga35@gmail.com">
