@@ -7,8 +7,6 @@
 
 ## 💡 About Me
 
-Full-Stack Developer • AI Engineer • Machine Learning Enthusiast
-
 - 🚀 Building scalable web applications
 - 🤖 Developing AI-powered solutions
 - ⚡ Passionate about automation & intelligent systems
