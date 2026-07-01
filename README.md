@@ -14,18 +14,7 @@ I enjoy building scalable applications, developing intelligent systems, solving 
 
 ---
 
-## Areas of Interest
 
-- Machine Learning & Deep Learning  
-- Artificial Intelligence  
-- Data Science & Analytics  
-- Predictive Modeling  
-- Intelligent Automation  
-- Backend & API Development  
-- Full-stack Web Development  
-- Technical Support & System Administration  
-
----
 
 ## Tech Stack
 
