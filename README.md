@@ -5,13 +5,6 @@
   <img src="https://img.shields.io/github/followers/jmaranga2000?style=flat&logo=github" />
 </p>
 
-## Interested In
-
-- 🚀 Building scalable web applications
-- 🤖 Developing AI-powered solutions
-- ⚡ Passionate about automation & intelligent systems
-- 🌱 Always learning modern technologies
-
 ---
 
 ## ⚙️ Tech Stack
