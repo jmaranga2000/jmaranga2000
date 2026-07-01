@@ -9,7 +9,7 @@
 I enjoy building scalable applications, developing intelligent systems, solving real-world problems with technology, and exploring modern tools in AI and full-stack development.
 
 - Focused on AI, Machine Learning & Data Science
-- Building full-stack applications using Django, Next.js & PostgreSQL
+- Building full-stack applications using Next.js ,MongoDB & PostgreSQL
 
 
 ---
