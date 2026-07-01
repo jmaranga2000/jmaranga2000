@@ -1,4 +1,4 @@
-# James Maranga
+# Maranga
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=jmaranga2000&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
