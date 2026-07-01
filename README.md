@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/github/followers/jmaranga2000?style=flat&logo=github" />
 </p>
 
-## 💡 About Me
+## Interested In
 
 - 🚀 Building scalable web applications
 - 🤖 Developing AI-powered solutions
