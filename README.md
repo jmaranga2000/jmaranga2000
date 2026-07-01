@@ -28,6 +28,7 @@
 <p>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/Next.js_Server_Actions-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
 </p>
 
 ### AI & Data Science
