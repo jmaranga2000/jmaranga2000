@@ -6,21 +6,11 @@
 
 ## About Me
 
-I am a Mathematics & Computer Science graduate specializing in Applied Mathematics and Computer Science, with a strong interest in Artificial Intelligence, Machine Learning, Data Science, and Software Engineering.
-
 I enjoy building scalable applications, developing intelligent systems, solving real-world problems with technology, and exploring modern tools in AI and full-stack development.
 
-- Graduated with a BSc in Mathematics & Computer Science
 - Focused on AI, Machine Learning & Data Science
 - Building full-stack applications using Django, Next.js & PostgreSQL
-- Interested in predictive analytics, automation, and intelligent systems
-- Founder of Digidwell Technologies
-- Currently advancing my skills in:
-  - Deep Learning
-  - MLOps
-  - Data Engineering
-  - Cloud & AI Deployment
-  - Backend System Architecture
+
 
 ---
 
