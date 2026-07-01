@@ -20,7 +20,7 @@ I enjoy building scalable applications, developing intelligent systems, solving 
 
 ### Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,ts,css" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts" />
 </p>
 
 ### Frameworks & Libraries
