@@ -78,21 +78,25 @@ src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&lo
 ##  GitHub Analytics
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=jmaranga2000&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmaranga2000&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="170"
+    src="https://github-stats-extended.vercel.app/api?username=jmaranga2000&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=jmaranga2000&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=jmaranga2000&theme=tokyonight&hide_border=true"/>
+  <img
+    src="https://streak-stats.demolab.com?user=jmaranga2000&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jmaranga2000&theme=tokyo-night&hide_border=true"/>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=jmaranga2000&theme=tokyo-night&hide_border=true"/>
 </p>
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=jmaranga2000&theme=tokyonight&no-frame=true&margin-w=15&row=1"/>
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=jmaranga2000&theme=tokyonight&no-frame=true&margin-w=15&row=1"/>
 </p>
 
 ---
