@@ -66,16 +66,6 @@ src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&lo
 
 ---
 
-##  Currently Working On
-
--  AI & Machine Learning
--  Next.js & Django Applications
--  Property Management Systems
--  School Management Systems
--  Business Automation Solutions
-
----
-
 ##  GitHub Analytics
 
 <p align="center">
