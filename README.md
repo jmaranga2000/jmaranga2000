@@ -89,7 +89,7 @@ src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&lo
 ## Featured Technologies
 
 <p>
-<img src="https://skillicons.dev/icons?i=nextjs,django,postgres,mongodb,docker,tensorflow,pytorch,git" />
+<img height="170" src="https://skillicons.dev/icons?i=nextjs,django,postgres,mongodb,docker,tensorflow,pytorch,git" />
 </p>
 
 ---
